@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 bin/
 *.vs
+=======
+# The usual...
+.DS_Store
+.sass-cache/
+*.swp
+*.swo
+
+_site/
+>>>>>>> 82788dcd0d7d78d248bb133ae5e58c13443e2dc9
