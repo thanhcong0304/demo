@@ -1,6 +1,2 @@
-aaaaaaaaaaaaaaaaaaa<<<<<<< HEAD
-aaajvsnjvnsj haha tu thanhcong0304 
-=======
-haha tu taaaaaaaaaaaaaaahanhcong0304
->>>>>>> fix-ui
+haha tu thanhcong0304
 
